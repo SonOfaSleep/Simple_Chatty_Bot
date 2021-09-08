@@ -63,5 +63,4 @@ fun test() {
 
 fun end() {
     println("Congratulations, have a nice day!")
-    println("And this is a test.")
 }
